@@ -1,4 +1,4 @@
-# 🖐️ Finger Cursor Controller
+# 🖐️ Gesture Based Human Computer Interaction System
 
 > Control your entire computer with just your hand — no mouse, no touchpad, just gestures and voice.
 
