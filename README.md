@@ -132,4 +132,4 @@ Feel free to open issues or PRs!
 
 ## 📄 License
 
-MIT — use it, fork it, build on it.
+MIT — Ship it further.
